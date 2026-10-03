@@ -1,6 +1,6 @@
 # Mini Map
 
-Added a minimap to the World interface for the SFS Steam version to improve the gameplay experience.
+- Added a minimap to the World interface for the SFS Steam version to improve the gameplay experience.
 
 ## Installing
 
