@@ -4,7 +4,7 @@
 
 ## Installing
 
-Requires **[UITools](https://github.com/cucumber-sp/UITools)** (1.1.6 or newer) to be installed first.
+Requires **[UITools](https://github.com/cucumber-sp/UITools)** to be installed first.
 
 1. Open the `Mods\` folder inside the game directory.
 2. Put `Mini Map.dll` into the game's `Mods` folder
