@@ -1,10 +1,6 @@
 # Mini Map
 
-A minimap mod for Spaceflight Simulator (PC, 1.6.x): a rectangular window in flight that shows the
-planet, the current trajectory, apoapsis/periapsis and the vehicle, with the **map zoom following the
-height above the ground** (the window itself never changes size).
-
----
+Added a minimap to the World interface for the SFS Steam version to improve the gameplay experience.
 
 ## Installing
 
