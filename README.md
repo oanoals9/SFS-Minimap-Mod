@@ -13,4 +13,4 @@ Requires **[UITools](https://github.com/cucumber-sp/UITools)** to be installed f
 
 ## Licence
 
-GPL-3.0 — see `LICENSE`.
+CC BY-NC-ND 4.0 — see `LICENSE`.
